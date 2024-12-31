@@ -1,14 +1,13 @@
-# To-Do List Application
+# To-Do List Website
 
-A simple and user-friendly **To-Do List** web application for managing tasks efficiently.
+A simple and interactive **To-Do List Website** for managing daily tasks directly from your browser.
 
-# Features
+## Features
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
-- Store tasks using PHP backend 
-- Responsive design for seamless use on desktop.
+- Responsive design for use on both desktop and mobile devices.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS
-- **Backend**: PHP (for functionality)
-- **Database**: MySQL
+- **HTML**: Structure of the web pages.
+- **CSS**: Simple Styling the layout and design.
+- **PHP**: Backend functionality for dynamic operations.
